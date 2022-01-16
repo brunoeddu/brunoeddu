@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @brunoeddu
+- 👋 Hi, I’m Bruno Eduardo!
+- I am biologist and a Master's Student at ECMVS - UFMG 
 - 👀 I’m interested in analysis with biodiversity data
 - 🌱 I’m currently learning Python and R language
 - 💞️ I’m looking to collaborate on projects involving ecology and conservation of species, mainly on the Cerrado species
